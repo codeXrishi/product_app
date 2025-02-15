@@ -1,16 +1,64 @@
-# product_list
 
-A new Flutter project.
+# Product Listing App
 
-## Getting Started
+A Flutter-based product listing app with API integration, filtering, theming, and product sharing features.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📦 Fetch product data from an API
+- 🔍 Search and filter products
+- 🌑 Toggle between light and dark themes
+- 🔄 Switch between grid and list views
+- 📤 Share product details
+- 🖼️ Product detail page with full information
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+Setup Instructions
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/product-listing-app.git  
+cd product-listing-app 
+```
+
+2. Install Dependencies
+
+```bash
+flutter pub get  
+```
+
+3. Run the App
+
+```bash
+flutter run 
+```
+    
+## Tech Stack
+
+Technical Choices
+
+- State Management: GetX is used for state management due to its lightweight, reactive nature and built-in dependency injection.
+
+- Networking: The http package is used for API calls to fetch product data.
+
+- Navigation: GetX's navigation system is used for better routing.
+
+- Theming: Dynamic theme switching (light/dark mode) using GetX.
+
+
+## Used and Why
+
+- GetX: Efficient state management and navigation.
+
+- HTTP: Fetch data from API
+
+- share_plus: Share product details
+
+## Demo
+
+[Watch Demo]('https://drive.google.com/file/d/19GMAnv2n3ebeyyN1kQOxNgVpF7b_APh0/view?usp=drive_link')
+
