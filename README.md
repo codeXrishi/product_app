@@ -57,8 +57,5 @@ Technical Choices
 - HTTP: Fetch data from API
 
 - share_plus: Share product details
-
-## Demo
-
-[Watch Demo]('https://drive.google.com/file/d/19GMAnv2n3ebeyyN1kQOxNgVpF7b_APh0/view?usp=drive_link')
-
+## Demo Video 🎥  
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/19GMAnv2n3ebeyyN1kQOxNgVpF7b_APh0/view?usp=drive_link)
